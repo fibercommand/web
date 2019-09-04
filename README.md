@@ -12,6 +12,6 @@
 - 📦 Equipaments
 - 📄 Services
 
-## Mind map
+## Layout
 
 ![layout](layout.png)
